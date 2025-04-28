@@ -1,0 +1,5 @@
+https://github.com/espressif/esptool/issues/741
+
+https://docs.espressif.com/projects/esptool/en/latest/esp32/troubleshooting.html
+
+https://docs.espressif.com/projects/esptool/en/latest/esp32/advanced-topics/boot-mode-selection.html#manual-bootloader

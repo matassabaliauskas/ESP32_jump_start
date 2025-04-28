@@ -1,0 +1,5 @@
+https://github.com/nhatuan84/esp32-sh1106-oled
+
+http://www.iotsharing.com/2017/05/how-to-use-arduino-esp32-to-display-oled.html
+
+https://cdn.velleman.eu/downloads/29/infosheets/sh1106_datasheet.pdf

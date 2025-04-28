@@ -1,0 +1,3 @@
+https://docs.espressif.com/projects/arduino-esp32/en/latest/
+
+https://docs.espressif.com/projects/esptool/en/latest/esp32/troubleshooting.html
